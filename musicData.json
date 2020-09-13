@@ -1,0 +1,366 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+    },
+    "followers": {
+      "href": null,
+      "total": 2002467
+    },
+    "genres": ["chicago rap", "rap"],
+    "href": "https://api.spotify.com/v1/artists/6AgTAQt8XS6jRWi4sX7w49",
+    "id": "6AgTAQt8XS6jRWi4sX7w49",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/86dc350509ace5cc41b7658979a87c8be757e71d",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/a7f7c5e68509eb5e76e0ff37b61e63262cccc021",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/7f63abf4965bee13c77d7e9a982a7abcd4e6f96a",
+        "width": 160
+      }
+    ],
+    "name": "Polo G",
+    "popularity": 89,
+    "type": "artist",
+    "uri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+    },
+    "followers": {
+      "href": null,
+      "total": 653872
+    },
+    "genres": [
+      "rap",
+      "southern hip hop",
+      "tennessee hip hop",
+      "trap",
+      "vapor trap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0RESbWvOMyua0yuyVrztJ5",
+    "id": "0RESbWvOMyua0yuyVrztJ5",
+    "images": [
+      {
+        "height": 1000,
+        "url": "https://i.scdn.co/image/a5fa11cc61976d5e51915120320bad64afddebaf",
+        "width": 1000
+      },
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/e02efe34487911efce01c4d7441012fd45a35b1b",
+        "width": 640
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/cebff6926a10ed6aa57976c3e2f1b2c51a4077c3",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/4ad600e416daa30ae381aa72eeb4e3fb058edaf1",
+        "width": 64
+      }
+    ],
+    "name": "Key Glock",
+    "popularity": 71,
+    "type": "artist",
+    "uri": "spotify:artist:0RESbWvOMyua0yuyVrztJ5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    "followers": {
+      "href": null,
+      "total": 15418996
+    },
+    "genres": ["conscious hip hop", "hip hop", "rap", "west coast rap"],
+    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/3a836196bfb341f736c7fe2704fb75de53f8dfbb",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/5259c0496329b3f608a1ae0edb799cd2f8451acc",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/b772a78d4cb192268d6f601a78f21044c17d6dda",
+        "width": 160
+      }
+    ],
+    "name": "Kendrick Lamar",
+    "popularity": 89,
+    "type": "artist",
+    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    "followers": {
+      "href": null,
+      "total": 11656456
+    },
+    "genres": ["conscious hip hop", "hip hop", "north carolina hip hop", "rap"],
+    "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+    "id": "6l3HvQ5sa6mXTsMTB19rO5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/c58beb81196bbdda378b6746c51a10aace2f63a6",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/83ca0c5fcb501018a41994f8778772240c3a4cac",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ff24214a2e41e0d0a4621b35c53e0573c2c6a65e",
+        "width": 160
+      }
+    ],
+    "name": "J. Cole",
+    "popularity": 88,
+    "type": "artist",
+    "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    "followers": {
+      "href": null,
+      "total": 1613996
+    },
+    "genres": ["brooklyn drill"],
+    "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+    "id": "0eDvMgVFoNV3TpwtrVCoTj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/8f0a45ff4868c7868a7996b57da64f2e89042e26",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/437c7c7e0f1acd43d9ae399a2cde2fa38813c8f7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/7d9942026d73b949e257fb8fee9001133fba3120",
+        "width": 160
+      }
+    ],
+    "name": "Pop Smoke",
+    "popularity": 95,
+    "type": "artist",
+    "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+    },
+    "followers": {
+      "href": null,
+      "total": 4956210
+    },
+    "genres": ["atl hip hop", "atl trap", "rap"],
+    "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+    "id": "5f7VJjfbwm532GiveGC0ZK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/8228781d8e7fa97831a42525c831063148736e87",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/032034b5d9c1e3b1d3135bea7d8afffbbc917990",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/963b5ea0fb684f5523aac9d0667130f26b87ba91",
+        "width": 160
+      }
+    ],
+    "name": "Lil Baby",
+    "popularity": 94,
+    "type": "artist",
+    "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+    },
+    "followers": {
+      "href": null,
+      "total": 2017197
+    },
+    "genres": [
+      "detroit hip hop",
+      "detroit trap",
+      "hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6AUl0ykLLpvTktob97x9hO",
+    "id": "6AUl0ykLLpvTktob97x9hO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/4d2f7d253ca05019a27cfe6fcdf4e2cb8312317f",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/9957a084b84bcad9091d526f536dd6bf805c8e85",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/8c0609f3a68f87a3006a58b2cfe9b5d5f5787a6e",
+        "width": 160
+      }
+    ],
+    "name": "Tee Grizzley",
+    "popularity": 75,
+    "type": "artist",
+    "uri": "spotify:artist:6AUl0ykLLpvTktob97x9hO"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+    },
+    "followers": {
+      "href": null,
+      "total": 1106655
+    },
+    "genres": ["florida rap"],
+    "href": "https://api.spotify.com/v1/artists/45TgXXqMDdF8BkjA83OM7z",
+    "id": "45TgXXqMDdF8BkjA83OM7z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab0aa95bcdc47dece5783a5bf4a0d81a613dfc89",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/52227338aa4cd5f91c3e7101d8ad20dd2f5487a2",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/5884e70b15c188c3447b43cc949f17bd2a9f52c8",
+        "width": 160
+      }
+    ],
+    "name": "Rod Wave",
+    "popularity": 84,
+    "type": "artist",
+    "uri": "spotify:artist:45TgXXqMDdF8BkjA83OM7z"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+    },
+    "followers": {
+      "href": null,
+      "total": 1374519
+    },
+    "genres": [
+      "gangster rap",
+      "hip hop",
+      "rap",
+      "southern hip hop",
+      "tennessee hip hop",
+      "trap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3HiuzBlSW7pGDXlSFMhO2g",
+    "id": "3HiuzBlSW7pGDXlSFMhO2g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/499ac9895d3ce557f13ad231795fd42d7995a098",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/5a1ece9e181564c93955bebffb4dc5e2475e02f4",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/4632947bdd2b1e75b3c1301dce462856e2581a8f",
+        "width": 160
+      }
+    ],
+    "name": "Young Dolph",
+    "popularity": 75,
+    "type": "artist",
+    "uri": "spotify:artist:3HiuzBlSW7pGDXlSFMhO2g"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+    },
+    "followers": {
+      "href": null,
+      "total": 2496866
+    },
+    "genres": [
+      "alternative r&b",
+      "atl hip hop",
+      "hip hop",
+      "melodic rap",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+    "id": "4IVAbR2w4JJNJDDRFP3E83",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/0d3d384ce199ff59e07407265f39d3bd18b5e746",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/9eb0bd9137898a64268ea57f2f8f8cbfd04ebfa8",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/17f0f93e30dd883222af7892954e15d881a2e9cb",
+        "width": 160
+      }
+    ],
+    "name": "6LACK",
+    "popularity": 81,
+    "type": "artist",
+    "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+  }
+]
