@@ -14,7 +14,7 @@ fs.readFile('./musicData.json', (err, data) => {
     printData(musicData, dataSize);
 
     const sortedData = sortByPopularity(musicData);
-    console.log('\nMy Top Artists Sorted By Popularity:');
+    console.log('\nMy Top Artists Sorted By Global Popularity:');
     printData(sortedData, dataSize);
 });
 
